@@ -49,5 +49,8 @@ Referensi & Inspirasi :
 - https://kiro.dev/docs/steering/
 - https://builder.aws.com/
 - https://github.com/awslabs/aidlc-workflows
+- https://github.com/fabriqaai/specs.md
+- https://github.com/Chorus-AIDLC/Chorus
+
 
 
