@@ -1,6 +1,8 @@
 # Project Template
 
-Sebuah template untuk memulai project memudahkan freelancer, project manager atau product owner melihat seberapa dalam project yang sedang dihandle.
+Sebuah template untuk memulai project web, aplikasi, teknologi 
+memudahkan freelancer, project manager atau product owner 
+melihat seberapa dalam project yang sedang dihandle.
 
 Hal ini mencakup simple sampai dengan full-scope project yang sedang dikerjakan.
 
@@ -39,5 +41,13 @@ project-template/
     └── proposal-template.md
 ```
 
-Referensi : 
+
+
+Referensi & Inspirasi : 
 - https://irfnrdh.github.io/systemind/
+- https://github.com/GSA-TTS/devCrew_s1
+- https://kiro.dev/docs/steering/
+- https://builder.aws.com/
+- https://github.com/awslabs/aidlc-workflows
+
+
