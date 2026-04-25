@@ -42,6 +42,12 @@ project-template/
 ```
 
 
+## Todo :
+1. Clone Repo
+2. Setup Project start with Idea
+3. AI Agent create all documents
+4. Start the project
+
 
 Referensi & Inspirasi : 
 - https://irfnrdh.github.io/systemind/
