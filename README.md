@@ -1,6 +1,7 @@
 # Project Template
 
 Sebuah template untuk memulai project memudahkan freelancer, project manager atau product owner melihat seberapa dalam project yang sedang dihandle.
+
 Hal ini mencakup simple sampai dengan full-scope project yang sedang dikerjakan.
 
 
@@ -37,3 +38,6 @@ project-template/
     ├── meeting-template.md
     └── proposal-template.md
 ```
+
+Referensi : 
+- https://irfnrdh.github.io/systemind/
