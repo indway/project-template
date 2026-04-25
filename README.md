@@ -51,7 +51,10 @@ Referensi & Inspirasi :
 - https://github.com/awslabs/aidlc-workflows
 - https://github.com/fabriqaai/specs.md
 - https://github.com/Chorus-AIDLC/Chorus
-
-
-
+- https://github.com/github/spec-kit
+- https://prod.d13rzhkk8cj2z0.amplifyapp.com/
+- https://aws.amazon.com/blogs/devops/ai-driven-development-life-cycle/
+- https://github.com/langgptai/awesome-claude-prompts
+- https://github.com/openclaw/openclaw
+- https://github.com/buildproven/saas-starter-kit
 
